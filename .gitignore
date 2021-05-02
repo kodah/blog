@@ -1,0 +1,12 @@
+# the frontend manages it's own .gitignore
+
+# Go
+vendor/
+
+# Project artifacts and config
+config.yaml
+db.sqlite
+dist/
+
+# IDE's
+.idea/
